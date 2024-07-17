@@ -7,6 +7,9 @@
 <h2> Tecnologias Utilizadas </h2>
 <ul>
   <li>
+    HTML
+  </li>
+  <li>
     JavaScript
   </li>
 </ul>
